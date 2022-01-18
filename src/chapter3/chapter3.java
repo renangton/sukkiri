@@ -1,6 +1,6 @@
-package sukkiriJava;
+package chapter3;
 
-public class sukkiriJava3 {
+public class chapter3 {
 
 	public static void main(String[] args) {
 		//　練習3-1
