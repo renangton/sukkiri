@@ -1,6 +1,6 @@
 package chapter5;
 
-public class chapter5_1 {
+public class chapter5_1_re {
 
 	public static void main(String[] args) {
 		introduceOneself();

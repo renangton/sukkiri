@@ -1,6 +1,6 @@
 package chapter5;
 
-public class chapter5_4 {
+public class chapter5_4_re {
 
 	public static void main(String[] args) {
 		double triangleArea = calcTriangleArea(10.0, 5.0);
@@ -19,4 +19,5 @@ public class chapter5_4 {
 		double area = radius * radius * 3.14;
 		return area;
 	}
+
 }

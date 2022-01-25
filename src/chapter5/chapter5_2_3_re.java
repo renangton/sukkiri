@@ -1,6 +1,6 @@
 package chapter5;
 
-public class chapter5_2_3 {
+public class chapter5_2_3_re {
 
 	public static void main(String[] args) {
 		// 問題5-2		
@@ -25,4 +25,5 @@ public class chapter5_2_3 {
 		System.out.println("件名：無題");
 		System.out.println("本文：" + text);	
 	}
+
 }
